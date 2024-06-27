@@ -9,3 +9,7 @@ git commit --amend -m ''
 git commit --amend -no-edit
 
 git worktree add ../nueva_rama_ubicacion nueva_rama
+
+git bisect
+
+git reflog
